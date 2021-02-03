@@ -43,3 +43,4 @@ diff -ru Python-2.7.12.orig/Lib/ctypes/util.py Python-2.7.12/Lib/ctypes/util.py
      else:
  
          def _findSoname_ldconfig(name):
+ 

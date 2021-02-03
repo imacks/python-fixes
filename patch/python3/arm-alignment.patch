@@ -15,3 +15,4 @@ Description: Use aligned access for _sha3 module on ARM.
  /* mangle names */
  #define KeccakF1600_FastLoop_Absorb _PySHA3_KeccakF1600_FastLoop_Absorb
  #define Keccak_HashFinal _PySHA3_Keccak_HashFinal
+ 
